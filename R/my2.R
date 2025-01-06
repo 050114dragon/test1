@@ -20,14 +20,13 @@
 #' bb(x=1)
 #' ```
 #' @examples
-#' example code
 #' library(test1)
 #' bb()
 #'
-#' @param x
+#' @param x int
 #'
 #' @return NULL
 #' @export
 bb <- function(x){
-  return("bb")
+  return(paste0("bb"))
 }

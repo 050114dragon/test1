@@ -7,7 +7,7 @@
 bb(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{int}
 }
 \description{
 A short description...
@@ -34,7 +34,6 @@ bb(x=1)
 }\if{html}{\out{</div>}}
 }
 \examples{
-example code
 library(test1)
 bb()
 
